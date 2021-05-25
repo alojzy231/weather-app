@@ -1,3 +1,6 @@
+### General informations
+Project made with React, fetches data about the weather from https://openweathermap.org/api. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
